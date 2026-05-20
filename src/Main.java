@@ -1,4 +1,3 @@
-// CORREGIDO: package correcto (era "package srcpackage src;" y estaba duplicado)
 package src;
 
 import src.Punto_1.RepartirReportes;
